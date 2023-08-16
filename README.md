@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sudesh Fernando</h1>
 <h3 align="center">A passionate Flutter developer from Sri Lanka</h3>
 
