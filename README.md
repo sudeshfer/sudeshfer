@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudesh Fernando</h1>
-<h3 align="center">A passionate Flutter developer from Sri Lanka</h3>
+<h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **React,Node.js Epxress.js**
 
