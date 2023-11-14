@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **sudeshfernandez98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: +94762162374</h3>
 <p align="left">
-  +94762162374
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
