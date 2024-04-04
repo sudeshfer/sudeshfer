@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudesh Fernando</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React,Node.js Epxress.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Flutter**
 
